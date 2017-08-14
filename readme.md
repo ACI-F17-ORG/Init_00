@@ -5,12 +5,11 @@
 1. create and setup github account
 2. create vimeo account (or youtube via google)
 3. download a screen recording tool
-4. download and install Arduino
-5. download and install a development environment
-6. download and setup openframeworks
-7. successfully run an openframeworks project, screen record it, and upload to vimeo
-8. fork class git, and make a pull request to the link of your video on vimeo
-9. read
+4. download and install a development environment
+5. download and setup openframeworks
+6. successfully run an openframeworks project, screen record it, and upload to vimeo
+7. fork class git, and make a pull request to the link of your video on vimeo
+8. read
 
 
 #### 1. Github
