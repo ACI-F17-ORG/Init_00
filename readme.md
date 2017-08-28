@@ -9,7 +9,8 @@
 5. download and setup openframeworks
 6. successfully run an openframeworks project, screen record it, and upload to vimeo
 7. fork class git, and make a pull request to the link of your video on vimeo
-8. read
+8. box
+9. read
 
 
 #### 1. Github
@@ -55,7 +56,12 @@ Run any project, capture a few seconds of it as proof, and upload that video to 
 #### 7. Fork & Pull
 Fork the Init_00 repository into your account. You may need merge from course repo first, then sync. Enter yourself alphabetically into the links.md file with your name and vimeo link. Create a pull request of the file for your changes to be integrated. There will be merge conflicts that you'll need to resolve. 
 
-#### 8. Read
+#### 8. Box
+If you don't already have a box account with RPI, please register for one here [http://dotcio.rpi.edu/box](http://dotcio.rpi.edu/box)
+
+#### 9. Read
+_Maeda Creative Code_.pdf on Box
+
 _Programming Interactivity_, Chapter 1, optional
 
 _Programming Interactivity_, Chapter 2, look through and try to get a feel for what we'll be dealing with when working with code. It's ok to not totally understand it. 
