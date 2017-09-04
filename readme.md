@@ -51,7 +51,7 @@ Download and install [OF](http://www.openframeworks.cc/download/) for your platf
 #### 6. Run, Capture, Upload
 The [OF](http://www.openframeworks.cc/download/) site has help per platform per development environment on how to run a project. If you're using the github repository, then follow the additional directions about how to use get and use the project generator on the OF github page.
 
-Run any project, capture a few seconds of it as proof, and upload that video to your vimeo account. I suggest uploading a standard definition (SD) instead of high definition (HD). We don't need audio on this upload. The free Vimeo account limits your HD uploads, so save them for videos that need it. Vimeo has compression guidelines and tutorials for [uploading](https://vimeo.com/help/compression). Youtube doesn't care so much what you upload.
+Run any openFrameworks example project, capture a few seconds of it as proof, and upload that video to your vimeo account. I suggest uploading a standard definition (SD) instead of high definition (HD). We don't need audio on this upload. The free Vimeo account limits your HD uploads, so save them for videos that need it. Vimeo has compression guidelines and tutorials for [uploading](https://vimeo.com/help/compression). Youtube doesn't care so much what you upload.
 
 #### 7. Fork & Pull
 Fork the Init_00 repository into your account. You may need merge from course repo first, then sync. Enter yourself alphabetically into the links.md file with your name and vimeo link. Create a pull request of the file for your changes to be integrated. There will be merge conflicts that you'll need to resolve. 
