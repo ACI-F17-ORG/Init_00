@@ -1,5 +1,7 @@
 ## Video Links
 
+Andrew Aquino: https://vimeo.com/232505242
+
 Jazmyn Borman: https://vimeo.com/232050871
 
 Arielle Cerini https://vimeo.com/232049123
