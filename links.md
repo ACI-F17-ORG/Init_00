@@ -15,3 +15,5 @@ Jennifer Pujols - https://vimeo.com/232377034
 Uyen Uong: https://vimeo.com/232493405
 
 Yihao Zhu - https://vimeo.com/232486626
+
+Justin Yang - https://www.youtube.com/channel/UCgz3bU-XoBb7U_yR-KK8irg?view_as=subscriber
