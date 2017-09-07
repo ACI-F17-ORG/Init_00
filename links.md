@@ -10,6 +10,8 @@ Arielle Cerini https://vimeo.com/232049123
 
 Alex Fig - https://youtu.be/YRdri23S3xM
 
+Andrea Labgold - https://vimeo.com/232868662
+
 Emily Lockwoood -  https://youtu.be/eGnsoFd6Eok
 
 John Noonan - https://youtu.be/hOQrgDoHDQ0
