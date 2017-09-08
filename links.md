@@ -12,6 +12,8 @@ Arielle Cerini https://vimeo.com/232049123
 
 Alex Fig - https://youtu.be/YRdri23S3xM
 
+Maddie Kettler - https://vimeo.com/232926704
+
 Andrea Labgold - https://vimeo.com/232868662
 
 Emily Lockwoood -  https://youtu.be/eGnsoFd6Eok
