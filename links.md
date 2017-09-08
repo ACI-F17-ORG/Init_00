@@ -27,3 +27,5 @@ Yihao Zhu - https://vimeo.com/232486626
 Justin Yang - https://www.youtube.com/channel/UCgz3bU-XoBb7U_yR-KK8irg?view_as=subscriber
 
 Amanda Howanice - https://vimeo.com/232887009
+
+Emily Rauseo - https://vimeo.com/232926703
