@@ -14,6 +14,8 @@ Alex Fig - https://youtu.be/YRdri23S3xM
 
 Andrea Labgold - https://vimeo.com/232868662
 
+Zeana Llamas - https://youtu.be/hUoTpk_7c2o
+
 Emily Lockwoood -  https://youtu.be/eGnsoFd6Eok
 
 John Noonan - https://youtu.be/hOQrgDoHDQ0
@@ -27,3 +29,4 @@ Yihao Zhu - https://vimeo.com/232486626
 Justin Yang - https://www.youtube.com/channel/UCgz3bU-XoBb7U_yR-KK8irg?view_as=subscriber
 
 Amanda Howanice - https://vimeo.com/232887009
+
