@@ -20,7 +20,11 @@ Emily Lockwoood -  https://youtu.be/eGnsoFd6Eok
 
 John Noonan - https://youtu.be/hOQrgDoHDQ0
 
+Omer Osman - https://vimeo.com/232925737
+
 Jennifer Pujols - https://vimeo.com/232377034
+
+Lareb Pirzada -https://vimeo.com/232925508
 
 Uyen Uong: https://vimeo.com/232493405
 
@@ -29,3 +33,5 @@ Yihao Zhu - https://vimeo.com/232486626
 Justin Yang - https://www.youtube.com/channel/UCgz3bU-XoBb7U_yR-KK8irg?view_as=subscriber
 
 Amanda Howanice - https://vimeo.com/232887009
+
+Bohan Chen - https://vimeo.com/232859756
