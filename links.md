@@ -18,6 +18,8 @@ Emily Lockwoood -  https://youtu.be/eGnsoFd6Eok
 
 John Noonan - https://youtu.be/hOQrgDoHDQ0
 
+Omer Osman - https://vimeo.com/232925737
+
 Jennifer Pujols - https://vimeo.com/232377034
 
 Uyen Uong: https://vimeo.com/232493405
