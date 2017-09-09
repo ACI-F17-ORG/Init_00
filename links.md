@@ -16,6 +16,8 @@ Maddie Kettler - https://vimeo.com/232926704
 
 Andrea Labgold - https://vimeo.com/232868662
 
+Jessie Liao - https://vimeo.com/232569953
+
 Zeana Llamas - https://youtu.be/hUoTpk_7c2o
 
 Emily Lockwoood -  https://youtu.be/eGnsoFd6Eok
