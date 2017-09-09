@@ -10,6 +10,8 @@ Igor Carvalho: https://vimeo.com/232401003
 
 Arielle Cerini https://vimeo.com/232049123
 
+Curtis Falkingham https://vimeo.com/user70649977
+
 Alex Fig - https://youtu.be/YRdri23S3xM
 
 Maddie Kettler - https://vimeo.com/232926704
