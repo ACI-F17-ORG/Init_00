@@ -12,11 +12,11 @@ Arielle Cerini https://vimeo.com/232049123
 
 Alex Fig - https://youtu.be/YRdri23S3xM
 
-Jessie Liao - https://vimeo.com/232569953
-
 Maddie Kettler - https://vimeo.com/232926704
 
 Andrea Labgold - https://vimeo.com/232868662
+
+Jessie Liao - https://vimeo.com/232569953
 
 Zeana Llamas - https://youtu.be/hUoTpk_7c2o
 
