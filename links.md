@@ -40,4 +40,7 @@ Justin Yang - https://www.youtube.com/channel/UCgz3bU-XoBb7U_yR-KK8irg?view_as=s
 
 Amanda Howanice - https://vimeo.com/232887009
 
+Emily Rauseo - https://vimeo.com/232926703
+
 Bohan Chen - https://vimeo.com/232859756
+
